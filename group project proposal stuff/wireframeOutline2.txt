@@ -1,0 +1,38 @@
+[REQUIRED] Name: Kevin Deming, Ayesha, Adam, Thomas
+[REQUIRED] Project Title: Event Planner
+[REQUIRED] Project Stack: MERN
+[REQUIRED] GitHub Repo Link: https://github.com/tlundstrom/mern_group_pjct
+
+[REQUIRED] Project Description: A project to create an event planner.
+
+[REQUIRED] New Programming Concept(s) (1)I'm Planning to Learn: refining image handling
+
+[REQUIRED] Week 1 Features (to show at Review during Week 2):creation of event and selecting events
+
+[REQUIRED] Week 2 Features (to show at first office hour/lecture of Week 3): css and things like google maps
+- 
+
+[REQUIRED] Product Backlog (If I have more time after completing my MVP, I'll start to work on...): not sure
+
+
+
+
+
+Other Week 1 Tasks
+- Sign up for a group (https://docs.google.com/spreadsheets/d/17amQ1VW4wAWI9tz-9qVTq9pf1HCAnQkki_3W8tLbOLY/edit#gid=0)
+- Schedule a Review during Week 2 (https://calendly.com/d/cnc-5t7-4yv/solo-project-sprint-w1-review)
+- Create GitHub repo for project
+- Create a .gitignore file for my project for my GitHub repo (enter in React, Python, or Java at https://www.toptal.com/developers/gitignore)
+- Finish this completed txt file and create project wireframe using Balsamiq (https://balsamiq.com/wireframes/) [Drawings and other wireframe programs also accepted!]
+- Email Zack this completed txt file, and project wireframe for approval
+- Submit completed wireframe on platform (https://login.codingdojo.com/m/97/6237/44911)
+- Complete Arrays To Do 1 & Arrays To Do 2 assignments
+
+
+Other Week 2 Tasks
+- Schedule my time for my presentation (https://docs.google.com/spreadsheets/d/17amQ1VW4wAWI9tz-9qVTq9pf1HCAnQkki_3W8tLbOLY/edit#gid=414986054)
+- Begin to talk with group about project ideas and what skills I bring to the table
+- Complete Singly Linked Lists Fronts & Display assignments
+
+
+
